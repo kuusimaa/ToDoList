@@ -6,6 +6,8 @@ Todolist made in Dr.Angela Yu's Web development bootcamp.
 
 * [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
+* [EJS](https://ejs.co/)
+
 
 
 ## Installation
