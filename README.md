@@ -1,4 +1,4 @@
-# RESTful-API
+# Todolist
 
 Todolist made in Dr.Angela Yu's Web development bootcamp.
 
